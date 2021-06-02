@@ -6,5 +6,5 @@
 - 📚 I'm currently reviewing Data structures and algorithms for interview prep
 - 👯 I’m looking to collaborate on fun and exciting projects
 - 📫 How to reach me: williamltrinh@gmail.com
-- 🤝 Connect with me on linkedin
+- 🤝 Connect with me on [Linkedin](https://www.linkedin.com/in/williamtrinh/)
 - 😄 Pronouns: he/him/his
