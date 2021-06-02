@@ -1,8 +1,11 @@
 # Hi there 👋 My name is Will 🙋‍♂️
+
 ### I am a software engineer based in California 🌤
+
 [![LinkedIn](https://img.shields.io/badge/williamtrinh%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/williamtrinh)](https://www.linkedin.com/in/williamtrinh/)
 [![GitHub](https://img.shields.io/badge/willtrinh%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/willtrinh)](https://github.com/willtrinh)
 [![Gmail](https://img.shields.io/badge/williamltrinh%20-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:williamltrinh@gmail.com)](mailto:williamltrinh@gmail.com)
+
 - 😄 Pronouns: he/him/his
 - 🔭 I’m currently working on Spendi - a voice-controlled budget tracker app
 - 🌱 I’m currently learning TypeScript, React-Native, and many other things
@@ -10,11 +13,13 @@
 - 👯 I’m looking to collaborate on fun and exciting projects
 
 ## Technologies Stack
+
 ### Front End
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![Redux](https://img.shields.io/badge/redux-764ABC?logo=Redux&logoColor=white&style=for-the-badge)
+![react-router](https://img.shields.io/badge/react%20router-CA4245?logo=react-router&logoColor=white&style=for-the-badge)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material%20UI-0081CB?&style=for-the-badge&logo=Material-UI&logoColor=white)
@@ -44,3 +49,4 @@
 ![babel](https://img.shields.io/badge/Babel-F9DC3E?&style=for-the-badge&logo=babel&logoColor=white)
 ![aws](https://img.shields.io/badge/aws-232F3E?&style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![heroku](https://img.shields.io/badge/heroku-430098?&style=for-the-badge&logo=heroku&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?&style=for-the-badge&logo=npm&logoColor=white)
