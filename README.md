@@ -1,5 +1,5 @@
 # Hi there 👋 My name is Will 🙋‍♂️
-### I am a software engineer based in sunny California 🌤
+### I am a software engineer based in California 🌤
 
 - 🔭 I’m currently working on Spendi - a voice-controlled budget tracker app
 - 🌱 I’m currently learning TypeScript, React-Native, and many other things
