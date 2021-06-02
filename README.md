@@ -50,6 +50,3 @@
 ![aws](https://img.shields.io/badge/aws-232F3E?&style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![heroku](https://img.shields.io/badge/heroku-430098?&style=for-the-badge&logo=heroku&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?&style=for-the-badge&logo=npm&logoColor=white)
-
-![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=willtrinh&theme=onedark&show_icons=true)
-
