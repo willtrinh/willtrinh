@@ -37,7 +37,7 @@
 ![java](https://img.shields.io/badge/Java-007396?&style=for-the-badge&logo=java&logoColor=white)
 ![python](https://img.shields.io/badge/python-3776AB?&style=for-the-badge&logo=python&logoColor=white)
 
-### Testing/Utilities
+### Testing/Deployment/Utilities
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?&style=for-the-badge&logo=Jest&logoColor=white)
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?&style=for-the-badge&logo=Mocha&logoColor=white)
