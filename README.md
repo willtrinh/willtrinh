@@ -8,9 +8,9 @@
 [![GitHub](https://img.shields.io/badge/willtrinh%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/willtrinh)](https://github.com/willtrinh)
 [![Gmail](https://img.shields.io/badge/williamltrinh%20-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:williamltrinh@gmail.com)](mailto:williamltrinh@gmail.com)
 
-# Technologies Stack
+## Technologies Stack
 
-## Front End
+### Front End
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
@@ -22,7 +22,7 @@
 ![Styled-components](https://img.shields.io/badge/Styled%20Components-DB7093?&style=for-the-badge&logo=styled-components&logoColor=white)
 ![figma](https://img.shields.io/badge/Figma-F24E1E?&style=for-the-badge&logo=figma&logoColor=white)
 
-## Back End
+### Back End
 
 ![Node](https://img.shields.io/badge/Node.js-339933?&style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?&style=for-the-badge&logo=express)
@@ -34,7 +34,7 @@
 ![java](https://img.shields.io/badge/Java-007396?&style=for-the-badge&logo=java&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=python&logoColor=white)
 
-## Testing
+### Testing
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?&style=for-the-badge&logo=Jest&logoColor=white)
 ![testinglibrary](https://img.shields.io/badge/Testing%20Library-E33332?&style=for-the-badge&logo=testing-library&logoColor=white)
@@ -42,7 +42,7 @@
 ![Chai](https://img.shields.io/badge/Chai-A30701?&style=for-the-badge&logo=Chai&logoColor=white)
 ![New Relic](https://img.shields.io/badge/New%20Relic-008C99?&style=for-the-badge&logo=new-relic&logoColor=white)
 
-## Other
+### Other
 
 ![aws](https://img.shields.io/badge/AWS-232F3E?&style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![heroku](https://img.shields.io/badge/Heroku-430098?&style=for-the-badge&logo=heroku&logoColor=white)
