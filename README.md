@@ -53,4 +53,6 @@
 ![Babel](https://img.shields.io/badge/Babel-F9DC3E?&style=for-the-badge&logo=babel&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?&style=for-the-badge&logo=eslint&logoColor=white)
 
+<img src="https://github-readme-stats.vercel.app/api?username=willtrinh&show_icons=true&count_private=true&theme=dracula&locale=en" alt="yo" />
+
 </div>
