@@ -22,9 +22,8 @@
 ![react-router](https://img.shields.io/badge/React%20Router-CA4245?logo=react-router&logoColor=white&style=flat-square)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?&style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?&style=flat-square&logo=css3&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-1572B6?&style=flat-square&logo=jQuery&logoColor=white)
 ![Styled-components](https://img.shields.io/badge/Styled%20Components-DB7093?&style=flat-square&logo=styled-components&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material%20UI-0081CB?&style=flat-square&logo=Material-UI&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?&style=flat-square&logo=bootstrap&logoColor=white&color=9b33b8)
 
 ### Back End
 
@@ -38,16 +37,21 @@
 ![java](https://img.shields.io/badge/Java-007396?&style=flat-square&logo=java&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?&style=flat-square&logo=python&logoColor=white)
 
-### Testing/Deployment/Utilities
+### Testing
+
+![Jest](https://img.shields.io/badge/Jest-C21325?&style=flat-square&logo=Jest&logoColor=white)
+![testinglibrary](https://img.shields.io/badge/Testing%20Library-E33332?&style=flat-square&logo=testing-library&logoColor=white)
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?&style=flat-square&logo=Mocha&logoColor=white)
+![Chai](https://img.shields.io/badge/Chai-A30701?&style=flat-square&logo=Chai&logoColor=white)
+![New Relic](https://img.shields.io/badge/New%20Relic-008C99?&style=flat-square&logo=new-relic&logoColor=white)
+
+### Other
 
 ![aws](https://img.shields.io/badge/AWS-232F3E?&style=flat-square&logo=amazon-aws&logoColor=white)
 ![heroku](https://img.shields.io/badge/Heroku-430098?&style=flat-square&logo=heroku&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?&style=flat-square&logo=npm&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?&style=flat-square&logo=Jest&logoColor=white)
-![Mocha](https://img.shields.io/badge/Mocha-8D6748?&style=flat-square&logo=Mocha&logoColor=white)
-![Chai](https://img.shields.io/badge/Chai-A30701?&style=flat-square&logo=Chai&logoColor=white)
-![New Relic](https://img.shields.io/badge/New%20Relic-008C99?&style=flat-square&logo=new-relic&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?&style=flat-square&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?&style=flat-square&logo=visual-studio-code&logoColor=white)
 ![webpack](https://img.shields.io/badge/Webpack-8DD6F9?&style=flat-square&logo=webpack&logoColor=white)
-![babel](https://img.shields.io/badge/Babel-F9DC3E?&style=flat-square&logo=babel&logoColor=white)
+![Babel](https://img.shields.io/badge/Babel-F9DC3E?&style=flat-square&logo=babel&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?&style=flat-square&logo=eslint&logoColor=white)
