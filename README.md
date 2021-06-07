@@ -17,12 +17,12 @@
 ### Front End
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?&style=flat-square&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat-square)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=Redux&logoColor=white&style=flat-square)
 ![react-router](https://img.shields.io/badge/React%20Router-CA4245?logo=react-router&logoColor=white&style=flat-square)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?&style=flat-square&logo=jQuery&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?&style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?&style=flat-square&logo=css3&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-1572B6?&style=flat-square&logo=jQuery&logoColor=white)
 ![Styled-components](https://img.shields.io/badge/Styled%20Components-DB7093?&style=flat-square&logo=styled-components&logoColor=white)
 
 ### Back End
