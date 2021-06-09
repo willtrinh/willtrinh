@@ -4,13 +4,13 @@
 
 ### I am a software engineer based in California 🌤
 
-[![LinkedIn](https://img.shields.io/badge/williamtrinh%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/williamtrinh)](https://www.linkedin.com/in/williamtrinh/)
-[![GitHub](https://img.shields.io/badge/willtrinh%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/willtrinh)](https://github.com/willtrinh)
-[![Gmail](https://img.shields.io/badge/williamltrinh%20-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:williamltrinh@gmail.com)](mailto:williamltrinh@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/williamtrinh-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/williamtrinh)](https://www.linkedin.com/in/williamtrinh/)
+[![GitHub](https://img.shields.io/badge/willtrinh-181717?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/willtrinh)](https://github.com/willtrinh)
+[![Gmail](https://img.shields.io/badge/williamltrinh-EA4335?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:williamltrinh@gmail.com)](mailto:williamltrinh@gmail.com)
 
 ## Technologies Stack
 
-### Front End
+### Front End 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
