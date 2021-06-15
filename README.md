@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> My name is Will
+# Hi there 👋, my name is Will.
 
-### I am a software engineer based in California 🌤
+### I am a software engineer based in California 🌊🌤
 [![Website](https://img.shields.io/badge/Portfolio-009688?&style=for-the-badge&logo=windowsterminal&logoColor=white&link=https://www.willtrinh.com/)](https://www.willtrinh.com/)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/williamtrinh)](https://www.linkedin.com/in/williamtrinh/)
 [![GitHub](https://img.shields.io/badge/Github-181717?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/willtrinh)](https://github.com/willtrinh)
