@@ -8,7 +8,7 @@
 [![GitHub](https://img.shields.io/badge/Github-181717?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/willtrinh)](https://github.com/willtrinh)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:williamltrinh@gmail.com)](mailto:williamltrinh@gmail.com)
 
-## Technologies Stack
+## Technology Stack
 
 ### Front End 
 
